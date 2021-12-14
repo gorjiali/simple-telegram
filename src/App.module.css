@@ -1,0 +1,11 @@
+.container {
+   margin: 50px auto;
+   width: 900px;
+   height: 80vh;
+   display: flex;
+   flex-direction: column;
+   border: 1px solid rgb(86, 121, 197);
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   overflow: hidden;
+ }

@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  background-color: rgb(86, 121, 197);
+  padding: 10px 5px;
+}
+
+.navLink {
+   color: rgb(196, 196, 255);
+   margin: 10px;
+}
+
+.navLinkWrapperActive .navLink {
+   color: #fff;
+   font-weight: bold;
+}
